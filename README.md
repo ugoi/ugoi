@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ugoi" alt="ugoi" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio page](https://github.com/ugoi/ugoi.github.io)
+- 🔭 I’m currently working on [school project](https://github.com/ugoi/Camagru)
 
-- 🌱 I’m currently learning **firebase, react, mulesoft**
+- 🌱 I’m currently learning **java, rc cars, javacript, html, css**
 
 - 👯 I’m looking to collaborate on [veri school dao](https://gitlab.com/veri.school/projects/veri.school.dao)
 
-- 🤝 I’m looking for help with [my portfolio page](https://github.com/ugoi/ugoi.github.io)
+- 🤝 I’m looking for help with [building an internet controlled rc car]
 
 - 👨‍💻 All of my projects are available at [ugoi.vercel.app](ugoi.vercel.app)
 
-- 💬 Ask me about **c, c++, type-/javascript, react, nodejs, nestjs, firebase**
+- 💬 Ask me about **c, c++, type-/javascript, html, css, react, nodejs, nestjs, firebase, java, flutter, swiftui**
 
 - 📫 How to reach me **codecraftingpro@gmail.com**
 
