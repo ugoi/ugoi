@@ -5,18 +5,64 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ugoi" alt="ugoi" /></a> </p>
 
-- 🔭 I’m currently working on [school project](https://github.com/ugoi/Camagru)
+### 👨‍💻 Professional Profile
 
-- 🌱 I’m currently learning **java, rc cars, javacript, html, css**
+Proven talent for aligning business strategy and objectives with established IT and software engineering practices to create robust, scalable web and mobile applications that streamline operations and surpass user expectations. Out-of-the-box thinker skilled at creating innovative solutions to complex technical problems, with a demonstrated ability to optimize applications for functionality, reliability, security, and ease of use.
 
-- 👯 I’m looking to collaborate on [veri school dao](https://gitlab.com/veri.school/projects/veri.school.dao)
+### 🎓 Education
 
-- 🤝 I’m looking for help with [building an internet controlled rc car]
+- **Mastery in Software Engineering** at 42 Lausanne (May 2024 to Present)
 
-- 👨‍💻 All of my projects are available at [ugoi.vercel.app](ugoi.vercel.app)
+  - Specializing in Websites and Mobile Applications
+  - Working with OpenAI APIs
 
-- 💬 Ask me about **c, c++, type-/javascript, html, css, react, nodejs, nestjs, firebase, java, flutter, swiftui**
+- **Core Curriculum in Software Engineering** at 42 Heilbronn (October 2022 to May 2024)
+  - Recognized as one of the quickest learners of the year
+  - Strong foundation in C, C++, Bash, Networks, Algorithms, and Virtualizations
 
+### 💼 Work Experience
+
+- **Software Engineer** at Audi AG, Neckarsulm, DE (November 2023 to April 2024)
+
+  - Led design and development of REST APIs using RAML
+  - Managed CI/CD pipelines for reliable automated deployments
+  - Utilized Agile methodologies and test-driven development
+
+- **Software Engineer** at Veri School, Zürich, CH (February 2022 to October 2022)
+  - Developed a decentralized IT education platform with blockchain-based solutions
+  - Created prototype DApp using Moralis and built DAOs using OpenZeppelin and Aragon
+
+### 🚀 Projects
+
+- **Matcha**: Dating application with advanced filters and real-time chat using Express and React
+- **Camguru**: Photo publishing social media website using Java and Vanilla JavaScript
+- **Hangouts**: iOS contacts and messaging app built with SwiftUI
+- **Swiftly Companion**: 42 Students App developed with Flutter and the 42 Intra REST API
+- **Transcendence**: Immersive website with multiplayer game using NestJS and React
+
+### 🏆 Achievements
+
+- Fastest student to complete the Core Curriculum at 42 Heilbronn
+
+### 💻 Technical Skills
+
+- **Frontend**: Flutter, SwiftUI, React
+- **Backend**: Node.js, Express, NestJS, Supabase, Firebase, Mulesoft
+- **Programming**: Python, C, C++, Java, JavaScript, TypeScript, Dart, SQL, DataWeave, HTML, CSS
+- **AI**: OpenAI API, Neural Networks
+- **Databases**: PostgreSQL, Data Warehouse, Data Lake, ETL
+- **DevOps**: Docker, CI/CD, Unix, GNU Make, Git
+- **Software Development**: Algorithms, OOP, REST APIs, Postman
+- **Hardware**: Raspberry Pi, RC Cars, Drones
+- **Documentation**: Confluence, Markdown, Notion, Docusaurus
+- **Project Management**: Jira, GitHub Issues, Agile, Scrum
+
+### 🌐 Additional Information
+
+- **Languages**: German (native), English (fluent), Serbian (fluent)
+- **Interests**: Certified Rescue Scuba Diver, active in sports and fitness, interested in science fiction and AI
+
+- 👨‍💻 Portfolio [stefandukic.com](https://stefandukic.com)
 - 📫 How to reach me **codecraftingpro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
